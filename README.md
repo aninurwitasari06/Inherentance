@@ -1,0 +1,2 @@
+# Inherentance
+Inherentance(pewarisan)
